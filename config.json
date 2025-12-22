@@ -1,0 +1,79 @@
+{
+  "colors": {
+    "nameColor": "rgb(355,221,656)",
+    "nameOpacity": 1,
+    "descriptionColor": "rgb(133,245,255)",
+    "descriptionOpacity": 0.8,
+    "profileCard": {
+      "color": "rgb(0,0,0)",
+      "opacity": 0.3,
+      "blur": 15
+    },
+    "musicPlayer": {
+      "color": "rgb(22,23,575)",
+      "opacity": 0.3,
+      "blur": 15
+    }
+  },
+  "personal": {
+    "name": "𝐖𝐲𝐳𝐞𝐚𝐤",
+    "introText": "𝐖𝐞𝐥𝐜𝐨𝐦𝐞 To My Bio",
+    "description": "𝐓𝐡𝐞 𝐖𝐨𝐫𝐥𝐝 𝐁𝐞𝐬𝐭",
+    "location": "𝐈𝐬𝐭𝐚𝐧𝐛𝐮𝐥, 𝐓𝐮𝐫𝐤𝐞𝐲",
+    "profileImage": "images/unnamed.gif"
+  },
+  "badges": [
+    { "name": "Nitro", "icon": "badges/nitro.webp" },
+    { "name": "boost", "icon": "badges/boost.webp" },
+    { "name": "staff", "icon": "badges/staff.webp" }
+  ],
+  "music": {
+    "enabled": true,
+    "title": "The Love You",
+    "url": "songs/song.mp3",
+    "duration": 154,
+    "albumCover": "images/album_cover.gif"
+  },
+  "social": [
+    {
+      "name": "youtube",
+      "url": "https://www.youtube.com/@Wyzeak",
+      "icon": "images/youtube.png"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.gg/guns",
+      "icon": "images/eee3.png"
+    },
+    {
+      "name": "spotify",
+      "url": "https://open.spotify.com/playlist/7MrgZMnvaaRGGTz1gcNSeZ?si=31eca314b8f14678",
+      "icon": "images/spotify.png"
+    }
+  ],
+  "site": {
+    "title": "Wyzeak",
+    "titleTypewriter": ".wyx",
+    "favicon": "https://media.discordapp.net/attachments/1255692212717752513/1364102217426272356/white_crown.gif?ex=68431d70&is=6841cbf0&hm=8aaa7dac368937e0d8aa0b0d921a854b6765280d6cef4f83de2baa103912950e&=",
+    "background": {
+      "type": "video",
+      "video": "videos/video.mp4",
+      "image": "images/background.jpg"
+    },
+    "bannerImage": "images/banner.gif",
+    "profileDecoration": "images/unnamed.gif",
+    "effects": {
+      "snow": true,
+      "card3D": true,
+      "cursorFollower": true,
+      "stars": true,
+      "musicVisualizer": true,
+      "typewriter": true
+    },
+    "ui": {
+      "viewCount": 10.824,
+      "onlineStatus": true
+    },
+    "layout": "vertical"
+  }
+}
