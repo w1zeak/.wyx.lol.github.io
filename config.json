@@ -5,7 +5,7 @@
     "descriptionColor": "rgb(133,245,255)",
     "descriptionOpacity": 0.8,
     "profileCard": {
-      "color": "rgb(0,0,0)",
+      "color": "rgb(21,141,235)",
       "opacity": 0.3,
       "blur": 15
     },
@@ -76,4 +76,5 @@
     },
     "layout": "vertical"
   }
+
 }
